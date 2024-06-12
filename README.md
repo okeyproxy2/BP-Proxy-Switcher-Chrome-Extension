@@ -2,7 +2,7 @@
 
 BP Proxy Switcher, a free application, empowers users to effortlessly manage and switch between multiple proxy settings, streamlining tasks, and optimizing performance. This versatile tool caters to web developers, testers, and users seeking to explore the web from various geographical locations without physical constraints.
 
-# Exploring the Possibilities with BP Proxy Switcher
+## Exploring the Possibilities with BP Proxy Switcher
 
 1. Web Development and Testing: Seamlessly test websites and applications across diverse geographical locations and network environments.
 2. SEO Monitoring: Monitor search engine rankings from different locations, aiding in the development of robust SEO strategies.
@@ -10,7 +10,7 @@ BP Proxy Switcher, a free application, empowers users to effortlessly manage and
 
 Recommended using with OkeyProxy - A premium Socks5 Proxy Provider with over 150M Residential Proxies across 200+ Countries. Get a 1GB [Free Proxy Trial](https://www.okeyproxy.com/proxy/?link=b63b57) today!
 
-# How to Harness the Power of BP Proxy Switcher
+## How to Harness the Power of BP Proxy Switcher
 
 The [BP Proxy Switcher chrome](https://www.okeyproxy.com/proxy/how-to-use-bp-proxy-switcher-chrome-extension/?link=b63b57) extension opens up a world of possibilities for browsing the web with various proxies. Follow these simple steps to unleash its full potential:
 
